@@ -1,6 +1,6 @@
 # TP-1-Smalltalk---Algo-III-Suarez
 
-> Este es mi proyecto del 1c 2022 en la materia algoritmos III, que consistia en modelar un sistema  de clases que permitiera llevar el registro de las llamadas nacionales e internacionales.
+` Este es mi proyecto del 1c 2022 en la materia algoritmos III, que consistia en modelar un sistema  de clases que permitiera llevar el registro de las llamadas nacionales e internacionales. `
 
 ## Cuestiones para mejorar:
 
